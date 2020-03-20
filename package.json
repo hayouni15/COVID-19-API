@@ -1,0 +1,16 @@
+{
+  "name": "corona-api",
+  "version": "1.0.0",
+  "description": "Hi! I introduce the COVID-19 API for developers. Use this API to collect data about the corona visrus since 1/22/20.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
