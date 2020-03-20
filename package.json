@@ -12,5 +12,8 @@
     "request": "^2.88.2"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "hbs": "^4.1.0"
+  }
 }
